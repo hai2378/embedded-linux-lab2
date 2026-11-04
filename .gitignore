@@ -1,0 +1,12 @@
+# Kernel build temporaries, not source documents.
+*.o
+*.mod
+*.mod.c
+*.cmd
+*.order
+Module.symvers
+.*.cmd
+.DS_Store
+Thumbs.db
+# Remove this line if intentionally publishing compiled module binaries:
+# *.ko
